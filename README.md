@@ -2,7 +2,7 @@
 
 ## Profile 
     Studing in : Yuan Ze University
-    Majoring in : Department of Computer Science & Engineering
+    Majoring in : Department of Computer Science & Engineering💻
     
 
 ## Portfolio  
