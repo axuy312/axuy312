@@ -1,6 +1,11 @@
 ![gif from nerdy.dev](https://github.com/axuy312/axuy312/blob/main/hi.gif)  
-#### Study in:YZU  
-### Portfolio  
+
+## Profile 
+    Studing in : [Yuan Ze University](https://www.yzu.edu.tw/)
+    Majoring in : [Department of Computer Science & Engineering](https://www.cse.yzu.edu.tw/)
+    
+
+## Portfolio  
 | 活動(Activity) | 描述(Description) | 連結(Link) | 性質(Property) |
 | --------- | ---------- | ----------------------------------------------------| ---------|
 | 第三屆創意APP實作競賽 | 一機在手 通行無阻 | [GitHub](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | Java by Android Studio |
