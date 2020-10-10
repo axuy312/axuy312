@@ -1,8 +1,8 @@
 ![gif from nerdy.dev](https://github.com/axuy312/axuy312/blob/main/hi.gif)  
 
 ## Profile 
-    Studing in : [Yuan Ze University](https://www.yzu.edu.tw/)
-    Majoring in : [Department of Computer Science & Engineering](https://www.cse.yzu.edu.tw/)
+    Studing in : Yuan Ze University
+    Majoring in : Department of Computer Science & Engineering
     
 
 ## Portfolio  
