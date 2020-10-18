@@ -18,3 +18,10 @@
 | Java概論 | Java小畫家 | [GitHub](https://github.com/axuy312/Java_1082_Paint) | Java |
 | Java概論 | Java小算盤 | [GitHub](https://github.com/axuy312/Java_1082_Calculator) | Java |
 | 程式語言 | iPhone小算盤 | [GitHub](https://github.com/axuy312/Swift_1082_Calculator) | Java |
+
+<h3><details>
+ <summary>Github Stats</summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axuy312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <p></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axuy312&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</details></h3>
