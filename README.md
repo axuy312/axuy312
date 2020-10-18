@@ -38,7 +38,9 @@
 | Java概論 | Java小算盤 | [GitHub](https://github.com/axuy312/Java_1082_Calculator) | Java |
 | 程式語言 | iPhone小算盤 | [GitHub](https://github.com/axuy312/Swift_1082_Calculator) | Java |
 
-<h3><details>
+------
+
+<h2><details>
  <summary>Github Stats</summary>
     <img height = "250" align="center" src="https://github-readme-stats.vercel.app/api?username=axuy312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
     <img height = "250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axuy312&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
