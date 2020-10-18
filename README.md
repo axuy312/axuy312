@@ -5,19 +5,18 @@
     💻 Majoring in : Department of Computer Science & Engineering
     
 ## Languages and Tools
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/html.png" /><img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/css.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/javascript.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/php.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/mysql.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/java.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/python.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/cpp.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/swift.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/android.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/firebase.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/anaconda.png" />
+<img height="32" width="32" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" />
  
  
  
