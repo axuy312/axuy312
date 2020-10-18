@@ -1,5 +1,10 @@
 ![gif from nerdy.dev](https://github.com/axuy312/axuy312/blob/main/hi.gif)  
 
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-two-livid.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/axuy312)
+
 ## Profile 
     🏫 Studing in : Yuan Ze University
     💻 Majoring in : Department of Computer Science & Engineering
