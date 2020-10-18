@@ -27,7 +27,7 @@
 ## Portfolio  
 | 活動(Activity) | 描述(Description) | 連結(Link) | 性質(Property) |
 | --------- | ---------- | ----------------------------------------------------| ---------|
-| 第三屆創意APP實作競賽 | 一機在手 通行無阻 | [GitHub](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | Java by Android Studio |
+| 第三屆創意APP實作競賽 | 一機在手 通行無阻 | [GitHub](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | Android Studio |
 | Web網頁設計 | 網頁音樂遊戲 | [GitHub](https://github.com/axuy312/Web_1071_FinalProject) | Web |
 | Java概論 | Java音樂遊戲 | [GitHub](https://github.com/axuy312/Java_1082_FinalProject) | Java |
 | 資訊概論 | 最短路線爬取 | [GitHub](https://github.com/axuy312/Python_1081_HomeworkProject) | Python |
@@ -41,6 +41,5 @@
 <h3><details>
  <summary>Github Stats</summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=axuy312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    <p></p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axuy312&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </details></h3>
