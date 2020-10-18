@@ -5,18 +5,18 @@
     💻 Majoring in : Department of Computer Science & Engineering
     
 ## Languages and Tools
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/html.png" /><img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/css.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/javascript.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/php.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/mysql.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/java.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/python.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/cpp.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/swift.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/android.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/firebase.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/anaconda.png" />
-<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" />
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/html.png" /> <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/css.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/javascript.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/php.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/mysql.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/java.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/python.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/cpp.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/swift.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/android.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/firebase.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/anaconda.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" /> 
  
  
  
