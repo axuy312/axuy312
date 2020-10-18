@@ -14,6 +14,8 @@
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/cpp.png" /> 
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/swift.png" /> 
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/android.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/visualstudio.png" /> 
+<img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" /> 
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/firebase.png" /> 
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/anaconda.png" /> 
 <img height="40" width="40" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" /> 
