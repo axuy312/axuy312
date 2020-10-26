@@ -1,4 +1,4 @@
-## Profile <img align="center" height="80" width="80" src="https://github.com/axuy312/axuy312/blob/main/hi.gif" />
+## Profile <img align="center" height="50" width="50" src="https://github.com/axuy312/axuy312/blob/main/hi.gif" />
     🏫 Studing in : Yuan Ze University
     💻 Majoring in : Department of Computer Science & Engineering
     
