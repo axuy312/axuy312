@@ -1,6 +1,4 @@
-![gif from nerdy.dev](https://github.com/axuy312/axuy312/blob/main/hi.gif)  
-
-## Profile 
+## Profile <img align="center" height="50" width="50" src="https://github.com/axuy312/axuy312/blob/main/hi.gif" />
     🏫 Studing in : Yuan Ze University
     💻 Majoring in : Department of Computer Science & Engineering
     
@@ -27,6 +25,12 @@
     
 
 ## Portfolio  
+### In progress
+| Activity | Description | Property | Progress |
+| --------- | ---------- | ---------| ----------|
+| [內嵌式系統實習與設計](https://github.com/axuy312/wikiCFP_APP) | wikiCFP之手機APP | Android Studio | Proposal |
+
+### Completed
 | Activity | Description | Property | Complete |
 | --------- | ---------- | ---------| ----------|
 | [第三屆創意APP實作競賽](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | 一機在手 通行無阻 | Android Studio | 2020/4 |
