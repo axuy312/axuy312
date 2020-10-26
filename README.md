@@ -28,8 +28,8 @@
 ### In progress
 | Activity | Description | Property | Progress |
 | --------- | ---------- | ---------| ----------|
-| [內嵌式系統實習與設計](https://github.com/axuy312/wikiCFP_APP) | wikiCFP之手機APP | Android Studio | Proposal |
-| [計算機圖學概論](https://github.com/axuy312/ThreeJs_BB8) | BB8 | ThreeJs | Coding |
+| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | Proposal |
+| 計算機圖學概論 | [BB8](https://github.com/axuy312/ThreeJs_BB8) | ThreeJs | Coding |
 
 ### Completed
 | Activity | Description | Property | Complete |
