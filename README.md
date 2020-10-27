@@ -26,9 +26,9 @@
 
 ## Portfolio  
 ### In progress
-| Activity | Description | Property | Progress |
-| --------- | ---------- | ---------| ----------|
-| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312) | Android Studio | ![](https://progress-bar.dev/50/?title=Proposal) |
+| Activity | Description | Property | Progress | Status |
+| --------- | ---------- | ---------| ---------- | ----|
+| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312) | Android Studio | ![](https://progress-bar.dev/50/?title=Proposal) | Private |
 
 ### Completed
 | Activity | Description | Property | Complete |
