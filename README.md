@@ -29,13 +29,13 @@
 | Activity | Description | Property | Progress |
 | --------- | ---------- | ---------| ----------|
 | 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | Proposal |
-| 計算機圖學概論 | [BB8](https://github.com/axuy312/ThreeJs_BB8) | ThreeJs | Coding |
 
 ### Completed
 | Activity | Description | Property | Complete |
 | --------- | ---------- | ---------| ----------|
 | 第三屆創意APP實作競賽 | [一機在手 通行無阻](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | Android Studio | 2020/4 |
 | Web網頁設計 | [網頁音樂遊戲](https://github.com/axuy312/Web_1071_FinalProject) | Web | 2019/1 |
+| 計算機圖學概論 | [BB8](https://github.com/axuy312/ThreeJs_BB8) | ThreeJs | 2020/10 |
 | Java概論 | [Java音樂遊戲](https://github.com/axuy312/Java_1082_FinalProject) | Java | 2020/6 |
 | 資訊概論 | [最短路線爬取](https://github.com/axuy312/Python_1081_HomeworkProject) | Python | 2018/10 |
 | 資料結構+演算法 | [UVa](https://github.com/axuy312/UVa) | C | 2020 |
