@@ -28,7 +28,7 @@
 ### In progress
 | Activity | Description | Property | Progress |
 | --------- | ---------- | ---------| ----------|
-| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | Proposal |
+| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312) | Android Studio | ![](https://progress-bar.dev/50/?title=Proposal) |
 
 ### Completed
 | Activity | Description | Property | Complete |
