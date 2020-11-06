@@ -12,6 +12,7 @@
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/cpp.png" /> 
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/swift.png" /> 
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/android.png" /> 
+<img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/VScode.png" /> 
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/visualstudio.png" /> 
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/androidstudio.png" /> 
 <img align="center" height="45" width="45" src="https://github.com/axuy312/axuy312/blob/main/icon/firebase.png" /> 
