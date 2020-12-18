@@ -29,7 +29,7 @@
 ### In progress
 | Activity | Description | Property | Progress | Status |
 | --------- | ---------- | ---------| ---------- | ----|
-| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312) | Android Studio | ![](https://progress-bar.dev/30/?title=Coding) | Private |
+| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312) | Android Studio | ![](https://progress-bar.dev/90/?title=Coding) | Private |
 
 ### Completed
 | Activity | Description | Property | Complete |
