@@ -30,7 +30,7 @@
 ### Completed
 | Activity | Description | Property | Complete |
 | --------- | ---------- | ---------| ----------|
-| 內嵌式系統實習與設計 | [wikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | 2020/12 |
+| 內嵌式系統實習與設計 | [WikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | 2020/12 |
 | 第三屆創意APP實作競賽 | [一機在手 通行無阻](https://github.com/axuy312/YZU_APP_Contest-YZUPass) | Android Studio | 2020/4 |
 | Web網頁設計 | [網頁音樂遊戲](https://github.com/axuy312/Web_1071_FinalProject) | Web | 2019/1 |
 | 計算機圖學概論 | [BB8](https://github.com/axuy312/ThreeJs_BB8) | ThreeJs | 2020/10 |
