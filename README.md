@@ -27,7 +27,7 @@
 
 ## Portfolio  
 
-### Completed
+### YZU(undergraduate)
 | Activity | Description | Property | Complete |
 | --------- | ---------- | ---------| ----------|
 | 內嵌式系統實習與設計 | [WikiCFP之手機APP](https://github.com/axuy312/wikiCFP_APP) | Android Studio | 2020/12 |
