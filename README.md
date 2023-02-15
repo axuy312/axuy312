@@ -1,4 +1,5 @@
 ## Profile <img align="center" height="35" width="35" src="https://github.com/axuy312/axuy312/blob/main/hi.gif" />
+    graduated from
     🏫 Studing in : Yuan Ze University
     💻 Majoring in : Department of Computer Science & Engineering
     
